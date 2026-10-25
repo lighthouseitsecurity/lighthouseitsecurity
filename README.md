@@ -1,7 +1,11 @@
 
 ## Donations
 
-<p align="justify">All provided content is free of charge. In case you found any information documented here helpful and/or learned something new and/or it saved time or you just want to support this initiative, please consider donating.</p>
+All provided content is free of charge. In case any of the following apply, please consider donating:
+* you found information documented here helpful
+* you learned something new
+* information documented here saved you time
+* you want to support this initiative
 
 Currently supported donation options:
 
